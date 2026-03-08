@@ -38,70 +38,67 @@ The ECI does not use surveys, self-reported metrics, or proprietary data.
    *(Experimental laboratories and hands-on facilities contribute here.)*
 
 ---
-
 ## ECI 2026 Ranking
 
 ### Top 10 Universities
 
-| Rank | Institution | Logo |
-|-----:|-------------|------|
-| 1 | Institution Name | ![Logo](assets/logos/logo1.png) |
-| 2 | Institution Name | ![Logo](assets/logos/logo2.png) |
-| 3 | Institution Name | ![Logo](assets/logos/logo3.png) |
-| 4 | Institution Name | ![Logo](assets/logos/logo4.png) |
-| 5 | Institution Name | ![Logo](assets/logos/logo5.png) |
-| 6 | Institution Name | ![Logo](assets/logos/logo6.png) |
-| 7 | Institution Name | ![Logo](assets/logos/logo7.png) |
-| 8 | Institution Name | ![Logo](assets/logos/logo8.png) |
-| 9 | Institution Name | ![Logo](assets/logos/logo9.png) |
-| 10 | Institution Name | ![Logo](assets/logos/logo10.png) |
-
-*Logos are shown only for the Top 10 to preserve clarity and academic tone.*
+| Rank | Institution |
+|-----:|-------------|
+| 1 | Georgia Tech |
+| 2 | University of Michigan |
+| 3 | Texas A&M |
+| 4 | Purdue |
+| 5 | Caltech |
+| 6 | University of Maryland |
+| 7 | Penn State |
+| 8 (tie) | CU Boulder |
+| 8 (tie) | Stanford University |
+| 8 (tie) | MIT |
 
 ---
 
 ### Ranks 11–50
 
-11. Institution Name  
-12. Institution Name  
-13. Institution Name  
-14. Institution Name  
-15. Institution Name  
-16. Institution Name  
-17. Institution Name  
-18. Institution Name  
-19. Institution Name  
-20. Institution Name  
-21. Institution Name  
-22. Institution Name  
-23. Institution Name  
-24. Institution Name  
-25. Institution Name  
-26. Institution Name  
-27. Institution Name  
-28. Institution Name  
-29. Institution Name  
-30. Institution Name  
-31. Institution Name  
-32. Institution Name  
-33. Institution Name  
-34. Institution Name  
-35. Institution Name  
-36. Institution Name  
-37. Institution Name  
-38. Institution Name  
-39. Institution Name  
-40. Institution Name  
-41. Institution Name  
-42. Institution Name  
-43. Institution Name  
-44. Institution Name  
-45. Institution Name  
-46. Institution Name  
-47. Institution Name  
-48. Institution Name  
-49. Institution Name  
-50. Institution Name  
+11. UT Austin  
+12 (tie). UIUC  
+12 (tie). University of Central Florida  
+14 (tie). UCLA  
+14 (tie). Virginia Tech  
+14 (tie). University of Alabama in Huntsville  
+14 (tie). Ohio State  
+18 (tie). Cornell  
+18 (tie). Air Force Institute of Technology  
+20 (tie). University of Southern California  
+20 (tie). University of Washington  
+22 (tie). Johns Hopkins University  
+22 (tie). Missouri S&T  
+24. UC San Diego  
+25 (tie). Princeton  
+25 (tie). NC State  
+25 (tie). Auburn  
+25 (tie). University of Arizona  
+29 (tie). UT Knoxville  
+29 (tie). UT Arlington  
+29 (tie). Wichita State  
+32 (tie). University of Florida  
+32 (tie). Arizona State University  
+32 (tie). Michigan Tech  
+32 (tie). Michigan State  
+36 (tie). UConn  
+36 (tie). Berkeley  
+36 (tie). University of Kansas  
+36 (tie). Stevens Institute of Technology  
+36 (tie). Cal Poly SLO  
+36 (tie). University of Cincinnati  
+36 (tie). Oregon State University  
+43 (tie). Colorado School of Mines  
+43 (tie). Notre Dame  
+43 (tie). RPI  
+43 (tie). University of Houston  
+47. Rice  
+48. Yale  
+49. University of Louisville  
+50. Carnegie Mellon
 
 ---
 
