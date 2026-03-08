@@ -15,31 +15,6 @@ The ECI is not a prestige ranking, reputation survey, or marketing index.
 It evaluates **demonstrable technical capability**, institutional alignment, and engineering culture relevant to national-scale aerospace and engineering missions.
 
 ---
-
-## Methodology Summary
-
-The ECI evaluates universities across **nine technical capability dimensions**.
-
-Institutions are assessed using a consistent ordinal framework based on:
-- observable disciplinary depth
-- engineering relevance
-- institutional alignment with national technical missions
-
-The ECI does not use surveys, self-reported metrics, or proprietary data.
-
-### Categories Measured
-
-1. **Fluids**
-2. **Propulsion**
-3. **Hypersonics**
-4. **Mechanical Engineering Fundamentals**
-5. **Electrical & Computer Engineering Fundamentals**
-6. **National-Mission Alignment**
-7. **Aerospace Ecosystem Adjacency**
-8. **Graduate Output (Domestic MS & PhD)**
-9. **Design–Build–Test Culture**  
-   *(Experimental laboratories and hands-on facilities contribute here.)*
----
 ## ECI 2026 Ranking
 
 ### Top 10 Universities
@@ -102,7 +77,30 @@ The ECI does not use surveys, self-reported metrics, or proprietary data.
 50. Carnegie Mellon  
 </pre>
 ---
+## Methodology Summary
 
+The ECI evaluates universities across **nine technical capability dimensions**.
+
+Institutions are assessed using a consistent ordinal framework based on:
+- observable disciplinary depth
+- engineering relevance
+- institutional alignment with national technical missions
+
+The ECI does not use surveys, self-reported metrics, or proprietary data.
+
+### Categories Measured
+
+1. **Fluids**
+2. **Propulsion**
+3. **Hypersonics**
+4. **Mechanical Engineering Fundamentals**
+5. **Electrical & Computer Engineering Fundamentals**
+6. **National-Mission Alignment**
+7. **Aerospace Ecosystem Adjacency**
+8. **Graduate Output (Domestic MS & PhD)**
+9. **Design–Build–Test Culture**  
+   *(Experimental laboratories and hands-on facilities contribute here.)*
+---
 ## Interpretation Notes
 
 The ECI reflects **engineering capability**, not institutional prestige.
