@@ -8,18 +8,8 @@ layout: default
 
 ---
 
-## Purpose
-
-**The Engineering Capability Index (ECI) identifies national‑level engineering capability across U.S. universities.**  
-A placement anywhere in the Top 50 reflects broad institutional strength in engineering. The index evaluates capability at national scale, where even ranks 20–50 represent meaningful engineering depth.
-
-**ECI uses an aerospace‑aligned lens because aerospace concentrates the highest‑order demands of modern engineering.**  
-Aerospace‑relevant work requires depth in **mechanical and electrical fundamentals**, **fluids and propulsion**, **systems engineering**, **high‑performance computation**, and **design–build–test culture**. Institutions capable of supporting these domains typically demonstrate broad engineering strength.
-
-ECI does not attempt to measure every engineering discipline equally. Fields such as **chemical**, **civil**, **biomedical**, or **industrial engineering**—while essential—do not uniformly reveal the physics‑intensive rigor, experimental infrastructure, or national‑mission alignment required for aerospace, defense, and space systems. The index therefore focuses on capability dimensions that best reflect an institution’s ability to contribute to **high‑consequence engineering missions** and **national capability**.
-
-**ECI is not a prestige ranking, reputation survey, or marketing index.**  
-It is a capability assessment that uses aerospace as the **stress test** for institutional engineering depth and national relevance.
+## Concise Purpose
+The Engineering Capability Index (ECI) identifies national‑level engineering capability across U.S. universities using an aerospace‑aligned lens. A placement anywhere in the Top 50 reflects broad institutional engineering strength. ECI is a capability assessment, not a prestige ranking.
 
 ---
 ## ECI 2026 Ranking
@@ -83,6 +73,16 @@ It is a capability assessment that uses aerospace as the **stress test** for ins
 49. University of Louisville
 50. Carnegie Mellon University
 </pre>
+---
+## Full Purpose & Rationale
+The Engineering Capability Index (ECI) identifies national‑level engineering capability across U.S. universities. A placement anywhere in the Top 50 reflects broad institutional strength in engineering. The index evaluates capability at national scale, where even ranks 20–50 represent meaningful engineering depth.
+
+ECI uses an aerospace‑aligned lens because aerospace concentrates the highest‑order demands of modern engineering. Aerospace‑relevant work requires depth in mechanical and electrical fundamentals, fluids and propulsion, systems engineering, high‑performance computation, and design–build–test culture. Institutions capable of supporting these domains typically demonstrate broad engineering strength.
+
+ECI does not attempt to measure every engineering discipline equally. Fields such as chemical, civil, biomedical, or industrial engineering—while essential—do not uniformly reveal the physics‑intensive rigor, experimental infrastructure, or national‑mission alignment required for aerospace, defense, and space systems. The index therefore focuses on capability dimensions that best reflect an institution’s ability to contribute to high‑consequence engineering missions and national capability.
+
+ECI is not a prestige ranking, reputation survey, or marketing index. It is a capability assessment that uses aerospace as the stress test for institutional engineering depth and national relevance.
+
 ---
 ## Methodology Summary
 
