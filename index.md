@@ -56,7 +56,7 @@ The ECI does not use surveys, self-reported metrics, or proprietary data.
 
 ---
 ### Ranks 11–50
-
+<pre>
 11. UT Austin  
 12 (tie). UIUC  
 12 (tie). University of Central Florida  
@@ -96,8 +96,8 @@ The ECI does not use surveys, self-reported metrics, or proprietary data.
 47. Rice  
 48. Yale  
 49. University of Louisville  
-50. Carnegie Mellon
-
+50. Carnegie Mellon  
+</pre>
 ---
 
 ## Interpretation Notes
