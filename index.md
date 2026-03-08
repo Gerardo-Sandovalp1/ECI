@@ -27,60 +27,60 @@ It is a capability assessment that uses aerospace as the **stress test** for ins
 
 | Rank | Institution |
 |-----:|-------------|
-| 1 | Georgia Tech |
-| 2 | University of Michigan |
-| 3 | Texas A&M |
-| 4 | Purdue |
-| 5 | Caltech |
-| 6 | University of Maryland |
-| 7 | Penn State |
-| 8 (tie) | CU Boulder |
+| 1 | Georgia Institute of Technology |
+| 2 | University of Michigan-Ann Arbor |
+| 3 | Texas A&M University |
+| 4 | Purdue University |
+| 5 | California Institute of Technology |
+| 6 | University of Maryland-College Park |
+| 7 | The Pennsylvania State University |
+| 8 (tie) | University of Colorado Boulder |
 | 8 (tie) | Stanford University |
-| 8 (tie) | MIT |
+| 8 (tie) | Massachusetts Institute of Technology |
 
 ---
 ### Ranks 11–50
 <pre>
-11. UT Austin  
-12 (tie). UIUC  
-12 (tie). University of Central Florida  
-14 (tie). UCLA  
-14 (tie). Virginia Tech  
-14 (tie). University of Alabama in Huntsville  
-14 (tie). Ohio State  
-18 (tie). Cornell  
-18 (tie). Air Force Institute of Technology  
-20 (tie). University of Southern California  
-20 (tie). University of Washington  
-22 (tie). Johns Hopkins University  
-22 (tie). Missouri S&T  
-24. UC San Diego  
-25 (tie). Princeton  
-25 (tie). NC State  
-25 (tie). Auburn  
-25 (tie). University of Arizona  
-29 (tie). UT Knoxville  
-29 (tie). UT Arlington  
-29 (tie). Wichita State  
-32 (tie). University of Florida  
-32 (tie). Arizona State University  
-32 (tie). Michigan Tech  
-32 (tie). Michigan State  
-36 (tie). UConn  
-36 (tie). Berkeley  
-36 (tie). University of Kansas  
-36 (tie). Stevens Institute of Technology  
-36 (tie). Cal Poly SLO  
-36 (tie). University of Cincinnati  
-36 (tie). Oregon State University  
-43 (tie). Colorado School of Mines  
-43 (tie). Notre Dame  
-43 (tie). RPI  
-43 (tie). University of Houston  
-47. Rice  
-48. Yale  
-49. University of Louisville  
-50. Carnegie Mellon  
+11. The University of Texas at Austin
+12 (tie). University of Illinois Urbana–Champaign
+12 (tie). University of Central Florida
+14 (tie). University of California, Los Angeles
+14 (tie). Virginia Polytechnic Institute and State University
+14 (tie). University of Alabama in Huntsville
+14 (tie). The Ohio State University
+18 (tie). Cornell University
+18 (tie). Air Force Institute of Technology
+20 (tie). University of Southern California
+20 (tie). University of Washington
+22 (tie). Johns Hopkins University
+22 (tie). Missouri University of Science and Technology
+24. University of California, San Diego
+25 (tie). Princeton University
+25 (tie). North Carolina State University
+25 (tie). Auburn University
+25 (tie). University of Arizona
+29 (tie). The University of Tennessee, Knoxville
+29 (tie). The University of Texas at Arlington
+29 (tie). Wichita State University
+32 (tie). University of Florida
+32 (tie). Arizona State University
+32 (tie). Michigan Technological University
+32 (tie). Michigan State University
+36 (tie). University of Connecticut
+36 (tie). University of California, Berkeley
+36 (tie). University of Kansas
+36 (tie). Stevens Institute of Technology
+36 (tie). California Polytechnic State University, San Luis Obispo
+36 (tie). University of Cincinnati
+36 (tie). Oregon State University
+43 (tie). Colorado School of Mines
+43 (tie). University of Notre Dame
+43 (tie). Rensselaer Polytechnic Institute
+43 (tie). University of Houston
+47. Rice University
+48. Yale University
+49. University of Louisville
+50. Carnegie Mellon University
 </pre>
 ---
 ## Methodology Summary
