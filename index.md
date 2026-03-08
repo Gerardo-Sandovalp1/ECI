@@ -36,7 +36,6 @@ The ECI does not use surveys, self-reported metrics, or proprietary data.
 8. **Graduate Output (Domestic MS & PhD)**
 9. **Design–Build–Test Culture**  
    *(Experimental laboratories and hands-on facilities contribute here.)*
-
 ---
 ## ECI 2026 Ranking
 
@@ -56,7 +55,6 @@ The ECI does not use surveys, self-reported metrics, or proprietary data.
 | 8 (tie) | MIT |
 
 ---
-
 ### Ranks 11–50
 
 11. UT Austin  
