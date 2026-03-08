@@ -16,18 +16,26 @@ The Engineering Capability Index (ECI) identifies national‑level engineering c
 
 ### Top 10 Universities
 
-| Rank | Institution |
-|-----:|-------------|
-| 1 | Georgia Institute of Technology |
-| 2 | University of Michigan-Ann Arbor |
-| 3 | Texas A&M University |
-| 4 | Purdue University |
-| 5 | California Institute of Technology |
-| 6 | University of Maryland-College Park |
-| 7 | The Pennsylvania State University |
-| 8 (tie) | University of Colorado Boulder |
-| 8 (tie) | Stanford University |
-| 8 (tie) | Massachusetts Institute of Technology |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left;">Rank</th>
+      <th style="text-align:left;">Institution</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>1</td><td>Georgia Institute of Technology</td></tr>
+    <tr><td>2</td><td>University of Michigan–Ann Arbor</td></tr>
+    <tr><td>3</td><td>Texas A&M University</td></tr>
+    <tr><td>4</td><td>Purdue University</td></tr>
+    <tr><td>5</td><td>California Institute of Technology</td></tr>
+    <tr><td>6</td><td>University of Maryland–College Park</td></tr>
+    <tr><td>7</td><td>Pennsylvania State University</td></tr>
+    <tr><td>8 (tie)</td><td>University of Colorado Boulder</td></tr>
+    <tr><td>8 (tie)</td><td>Stanford University</td></tr>
+    <tr><td>8 (tie)</td><td>Massachusetts Institute of Technology</td></tr>
+  </tbody>
+</table>
 
 ---
 ### Ranks 11–50
@@ -73,6 +81,7 @@ The Engineering Capability Index (ECI) identifies national‑level engineering c
 49. University of Louisville
 50. Carnegie Mellon University
 </pre>
+
 ---
 ## Full Purpose & Rationale
 The Engineering Capability Index (ECI) identifies national‑level engineering capability across U.S. universities. A placement anywhere in the Top 50 reflects broad institutional strength in engineering. The index evaluates capability at national scale, where even ranks 20–50 represent meaningful engineering depth.
