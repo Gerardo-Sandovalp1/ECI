@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Engineering Capability Index (ECI) — United States 2026
 
 **A capability-first, engineer-made ranking of U.S. universities based on nine technical dimensions.**
