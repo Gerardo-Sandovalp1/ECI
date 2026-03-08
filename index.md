@@ -39,7 +39,6 @@ The Engineering Capability Index (ECI) identifies national‑level engineering c
 
 ---
 ### Ranks 11–50
-
 <table>
   <thead>
     <tr>
@@ -51,43 +50,50 @@ The Engineering Capability Index (ECI) identifies national‑level engineering c
     <tr><td>11</td><td>The University of Texas at Austin</td></tr>
     <tr><td>12 (tie)</td><td>University of Illinois Urbana–Champaign</td></tr>
     <tr><td>12 (tie)</td><td>University of Central Florida</td></tr>
-    <tr><td>12 (tie)</td><td>University of California, Los Angeles</td></tr>
-    <tr><td>12 (tie)</td><td>Virginia Polytechnic Institute and State University</td></tr>
+    <tr><td>14 (tie)</td><td>University of California, Los Angeles</td></tr>
+    <tr><td>14 (tie)</td><td>Virginia Polytechnic Institute and State University</td></tr>
     <tr><td>14 (tie)</td><td>University of Alabama in Huntsville</td></tr>
-    <tr><td>14 (tie)</td><td>Duke University</td></tr>
-    <tr><td>16</td><td>Cornell University</td></tr>
+    <tr><td>14 (tie)</td><td>The Ohio State University</td></tr>
+    <tr><td>18 (tie)</td><td>Cornell University</td></tr>
     <tr><td>18 (tie)</td><td>Air Force Institute of Technology</td></tr>
-    <tr><td>18 (tie)</td><td>University of Southern California</td></tr>
-    <tr><td>20</td><td>University of Washington</td></tr>
+    <tr><td>20 (tie)</td><td>University of Southern California</td></tr>
+    <tr><td>20 (tie)</td><td>University of Washington</td></tr>
     <tr><td>22 (tie)</td><td>Johns Hopkins University</td></tr>
     <tr><td>22 (tie)</td><td>Missouri University of Science and Technology</td></tr>
     <tr><td>24</td><td>University of California, San Diego</td></tr>
     <tr><td>25 (tie)</td><td>Princeton University</td></tr>
-    <tr><td>25 (tie)</td><td>Arizona State University</td></tr>
+    <tr><td>25 (tie)</td><td>North Carolina State University</td></tr>
     <tr><td>25 (tie)</td><td>Auburn University</td></tr>
     <tr><td>25 (tie)</td><td>University of Arizona</td></tr>
-    <tr><td>25 (tie)</td><td>University of Tennessee, Knoxville</td></tr>
-    <tr><td>25 (tie)</td><td>The University of Texas at Arlington</td></tr>
+    <tr><td>29 (tie)</td><td>University of Tennessee, Knoxville</td></tr>
+    <tr><td>29 (tie)</td><td>The University of Texas at Arlington</td></tr>
     <tr><td>29 (tie)</td><td>Wichita State University</td></tr>
-    <tr><td>29 (tie)</td><td>University of Florida</td></tr>
+    <tr><td>32 (tie)</td><td>University of Florida</td></tr>
     <tr><td>32 (tie)</td><td>Arizona State University</td></tr>
     <tr><td>32 (tie)</td><td>Michigan Technological University</td></tr>
     <tr><td>32 (tie)</td><td>Michigan State University</td></tr>
-    <tr><td>35</td><td>University of Connecticut</td></tr>
-    <tr><td>36 (tie)</td><td>University of California, Berkeley</td></tr>
-    <tr><td>36 (tie)</td><td>Stevens Institute of Technology</td></tr>
-    <tr><td>36 (tie)</td><td>California Polytechnic State University, San Luis Obispo</td></tr>
-    <tr><td>36 (tie)</td><td>University of Cincinnati</td></tr>
-    <tr><td>40</td><td>Oregon State University</td></tr>
-    <tr><td>41 (tie)</td><td>Colorado School of Mines</td></tr>
-    <tr><td>41 (tie)</td><td>University of Notre Dame</td></tr>
-    <tr><td>43 (tie)</td><td>Rensselaer Polytechnic Institute</td></tr>
-    <tr><td>43 (tie)</td><td>University of Houston</td></tr>
-    <tr><td>45</td><td>Rice University</td></tr>
-    <tr><td>46</td><td>Villanova University</td></tr>
-    <tr><td>50</td><td>Carnegie Mellon University</td></tr>
+
+  <tr><td>36 (tie)</td><td>University of Connecticut</td></tr>
+  <tr><td>36 (tie)</td><td>University of California, Berkeley</td></tr>
+  <tr><td>36 (tie)</td><td>University of Kansas</td></tr>
+  <tr><td>36 (tie)</td><td>Stevens Institute of Technology</td></tr>
+  <tr><td>36 (tie)</td><td>California Polytechnic State University, San Luis Obispo</td></tr>
+  <tr><td>36 (tie)</td><td>University of Cincinnati</td></tr>
+  <tr><td>36 (tie)</td><td>Oregon State University</td></tr>
+
+  <tr><td>43 (tie)</td><td>Colorado School of Mines</td></tr>
+  <tr><td>43 (tie)</td><td>University of Notre Dame</td></tr>
+  <tr><td>43 (tie)</td><td>Rensselaer Polytechnic Institute</td></tr>
+  <tr><td>43 (tie)</td><td>University of Houston</td></tr>
+
+  <tr><td>47</td><td>Rice University</td></tr>
+  <tr><td>48</td><td>Yale University</td></tr>
+  <tr><td>49</td><td>University of Louisville</td></tr>
+  <tr><td>50</td><td>Carnegie Mellon University</td></tr>
   </tbody>
 </table>
+
+
 
 ---
 ## Full Purpose & Rationale
