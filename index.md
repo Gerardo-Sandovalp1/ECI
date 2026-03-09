@@ -19,14 +19,14 @@ The Engineering Capability Index (ECI) identifies national‑level engineering c
 
 | Rank | Logo | Institution |
 |------|------|-------------|
-| 1 | <img src="/ECI/logos/GeorgiaTech_RGB.png" width="32"> | Georgia Institute of Technology |
-| 2 | <img src="/ECI/logos/U-M_Logo-Hex.png" width="32"> | University of Michigan–Ann Arbor |
-| 3 | <img src="/ECI/logos/TAMU.png" width="32"> | Texas A&M University |
-| 4 | <img src="/ECI/logos/Purdue.png" width="32"> | Purdue University |
-| 5 | <img src="/ECI/logos/Caltech.png" width="32"> | California Institute of Technology |
-| 6 | <img src="/ECI/logos/U-Maryland.png" width="32"> | University of Maryland–College Park |
-| 7 | <img src="/ECI/logos/penn-state.png" width="32"> | Pennsylvania State University |
-| 8 (tie) | <img src="/ECI/logos/CU_Boulder.png" width="32"> | University of Colorado Boulder |
+| 1 | <img src="/ECI/logos/GeorgiaTech_RGB.png" width="40"> | Georgia Institute of Technology |
+| 2 | <img src="/ECI/logos/U-M_Logo-Hex.png" width="40"> | University of Michigan–Ann Arbor |
+| 3 | <img src="/ECI/logos/TAMU.png" width="40"> | Texas A&M University |
+| 4 | <img src="/ECI/logos/Purdue.png" width="40"> | Purdue University |
+| 5 | <img src="/ECI/logos/Caltech.png" width="40"> | California Institute of Technology |
+| 6 | <img src="/ECI/logos/U-Maryland.png" width="40"> | University of Maryland–College Park |
+| 7 | <img src="/ECI/logos/penn-state.png" width="40"> | Pennsylvania State University |
+| 8 (tie) | <img src="/ECI/logos/CU_Boulder.png" width="40"> | University of Colorado Boulder |
 | 8 (tie) | <img src="/ECI/logos/Stanford.png" width="40"> | Stanford University |
 | 8 (tie) | <img src="/ECI/logos/MIT.png" width="40"> | Massachusetts Institute of Technology |
 
