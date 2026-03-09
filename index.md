@@ -24,11 +24,11 @@ The Engineering Capability Index (ECI) identifies national‑level engineering c
 | 3 | <img src="/ECI/logos/TAMU.png" width="32"> | Texas A&M University |
 | 4 | <img src="/ECI/logos/Purdue.png" width="32"> | Purdue University |
 | 5 | <img src="/ECI/logos/Caltech.png" width="32"> | California Institute of Technology |
-| 6 | <img src="/ECI/logos/UMD.png" width="32"> | University of Maryland–College Park |
-| 7 | <img src="/ECI/logos/PennState.png" width="32"> | Pennsylvania State University |
-| 8 (tie) | <img src="/ECI/logos/CUBoulder.png" width="32"> | University of Colorado Boulder |
-| 8 (tie) | <img src="/ECI/logos/Stanford.png" width="32"> | Stanford University |
-| 8 (tie) | <img src="/ECI/logos/MIT.png" width="32"> | Massachusetts Institute of Technology |
+| 6 | <img src="/ECI/logos/U-Maryland.png" width="32"> | University of Maryland–College Park |
+| 7 | <img src="/ECI/logos/penn-state.png" width="32"> | Pennsylvania State University |
+| 8 (tie) | <img src="/ECI/logos/CU_Boulder.png" width="32"> | University of Colorado Boulder |
+| 8 (tie) | <img src="/ECI/logos/Stanford.png" width="40"> | Stanford University |
+| 8 (tie) | <img src="/ECI/logos/MIT.png" width="40"> | Massachusetts Institute of Technology |
 
 ---
 ### Ranks 11–50
